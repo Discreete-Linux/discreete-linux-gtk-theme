@@ -1,3 +1,9 @@
+discreete-linux-gtk-theme (1.1) unstable; urgency=medium
+
+  * Added gnome shell theme
+
+ -- Discreete Linux Team <info@discreete-linux.org>  Wed, 14 Jun 2017 14:55:42 +0200
+
 discreete-linux-gtk-theme (1.0) unstable; urgency=low
 
   * Initial Release.

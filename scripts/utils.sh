@@ -13,7 +13,7 @@ do_install() {
 	cp index.theme "${INSTALL_DIR}"
 
 	cp -rt "${INSTALL_DIR}" \
-			assets gtk-2.0
+			assets gtk-2.0 gnome-shell
 
 	for _DIR in "${GTKDIR}" "${GTK320DIR}"
 	do
