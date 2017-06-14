@@ -2,7 +2,7 @@ Source: discreete-linux-gtk-theme
 Section: misc
 Priority: optional
 Maintainer: Discreete Linux Team <info@discreete-linux.org>
-Build-Depends: ruby-sass (> 3.4.6), libglib2.0-dev, libgdk-pixbuf2.0-dev, libxml2-utils, debhelper (>= 9)
+Build-Depends: ruby-sass (>> 3.4.6), libglib2.0-dev, libgdk-pixbuf2.0-dev, libxml2-utils, debhelper (>= 9)
 Standards-Version: 3.9.5
 Homepage: https://www.discreete-linux.org
 
