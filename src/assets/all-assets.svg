@@ -15,7 +15,7 @@
    viewBox="0 0 96.000001 456.00001"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="all-assets.svg">
   <defs
      id="defs4">
@@ -1982,15 +1982,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="6.595402"
-     inkscape:cx="23.649497"
-     inkscape:cy="148.54955"
+     inkscape:cx="-15.089612"
+     inkscape:cy="160.67921"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="menuitem-checkbox-mixed"
      showgrid="true"
-     inkscape:window-width="1440"
-     inkscape:window-height="852"
+     inkscape:window-width="1920"
+     inkscape:window-height="998"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -2007,51 +2007,63 @@
     <sodipodi:guide
        position="0.9999997,198.00002"
        orientation="0,1"
-       id="guide6546" />
+       id="guide6546"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="14,182.00002"
        orientation="0,1"
-       id="guide6548" />
+       id="guide6548"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="1.9999997,195.00002"
        orientation="1,0"
-       id="guide6550" />
+       id="guide6550"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="18,194.00002"
        orientation="1,0"
-       id="guide6552" />
+       id="guide6552"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="32,190.00002"
        orientation="1,0"
-       id="guide6554" />
+       id="guide6554"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="48.000001,189.00002"
        orientation="1,0"
-       id="guide6556" />
+       id="guide6556"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="62.000001,191.00002"
        orientation="1,0"
-       id="guide6558" />
+       id="guide6558"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="78,187.00002"
        orientation="1,0"
-       id="guide6560" />
+       id="guide6560"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="46.000001,168.00002"
        orientation="0,1"
-       id="guide6562" />
+       id="guide6562"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="47.000001,152.00002"
        orientation="0,1"
-       id="guide6564" />
+       id="guide6564"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="3.9999997,138.00002"
        orientation="0,1"
-       id="guide6566" />
+       id="guide6566"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="4.9999997,122.00002"
        orientation="0,1"
-       id="guide6568" />
+       id="guide6568"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -2207,7 +2219,7 @@
             <path
                inkscape:connector-curvature="0"
                id="path4261"
-               style="fill:#f1544d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#467496;fill-opacity:1;fill-rule:nonzero;stroke:none"
                d="m 51,69 26,0 0,-26 -26,0 0,26 z" />
           </g>
         </g>
@@ -2291,7 +2303,7 @@
             <path
                inkscape:connector-curvature="0"
                id="path4327"
-               style="fill:#f1544d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#467496;fill-opacity:1;fill-rule:nonzero;stroke:none"
                d="m 83,69 26,0 0,-26 -26,0 0,26 z" />
           </g>
         </g>
@@ -2566,7 +2578,7 @@
             <path
                inkscape:connector-curvature="0"
                id="path4732"
-               style="fill:#f1544d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#467496;fill-opacity:1;fill-rule:nonzero;stroke:none"
                d="m 85,63 42,0 0,-42 -42,0 0,42 z" />
           </g>
         </g>
@@ -2741,7 +2753,7 @@
             <path
                inkscape:connector-curvature="0"
                id="path4984"
-               style="fill:#f1544d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#467496;fill-opacity:1;fill-rule:nonzero;stroke:none"
                d="m 51,69 26,0 0,-26 -26,0 0,26 z" />
           </g>
         </g>
@@ -2824,7 +2836,7 @@
             <path
                inkscape:connector-curvature="0"
                id="path5050"
-               style="fill:#f1544d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#467496;fill-opacity:1;fill-rule:nonzero;stroke:none"
                d="m 83,69 26,0 0,-26 -26,0 0,26 z" />
           </g>
         </g>
@@ -3100,7 +3112,7 @@
             <path
                inkscape:connector-curvature="0"
                id="path5455"
-               style="fill:#f1544d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#467496;fill-opacity:1;fill-rule:nonzero;stroke:none"
                d="m 85,63 42,0 0,-42 -42,0 0,42 z" />
           </g>
         </g>
@@ -3175,7 +3187,7 @@
             <path
                inkscape:connector-curvature="0"
                id="path5655"
-               style="fill:#f1544d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#467496;fill-opacity:1;fill-rule:nonzero;stroke:none"
                d="m 23,38 18,0 0,-12 -18,0 0,12 z" />
           </g>
         </g>
@@ -3287,21 +3299,21 @@
         </g>
       </g>
       <g
-         style="fill:#f1544d;fill-opacity:1"
+         style="fill:#467496;fill-opacity:1"
          transform="matrix(1.25,0,0,-1.25,0,794.14796)"
          id="g5737">
         <g
-           style="fill:#f1544d;fill-opacity:1"
+           style="fill:#467496;fill-opacity:1"
            clip-path="url(#clipPath5741)"
            id="g5739">
           <g
-             style="fill:#f1544d;fill-opacity:1"
+             style="fill:#467496;fill-opacity:1"
              clip-path="url(#clipPath5747)"
              id="g5745">
             <path
                inkscape:connector-curvature="0"
                id="path5751"
-               style="fill:#f1544d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#467496;fill-opacity:1;fill-rule:nonzero;stroke:none"
                d="m 22,101 20.65809,0 0,-17.83035 L 22,83.16965 22,101 Z" />
           </g>
         </g>
@@ -3413,7 +3425,7 @@
             <path
                inkscape:connector-curvature="0"
                id="path5831"
-               style="fill:#f1544d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#467496;fill-opacity:1;fill-rule:nonzero;stroke:none"
                d="m 24,70 16,0 0,-16 -16,0 0,16 z" />
           </g>
         </g>
@@ -3572,7 +3584,7 @@
            clip-path="url(#clipPath6114)">
           <path
              d="m 51,69 26,0 0,-26 -26,0 0,26 z"
-             style="fill:#f1544d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             style="fill:#467496;fill-opacity:1;fill-rule:nonzero;stroke:none"
              id="path6118"
              inkscape:connector-curvature="0" />
         </g>
@@ -3632,7 +3644,7 @@
            clip-path="url(#clipPath6180)">
           <path
              d="m 83,69 26,0 0,-26 -26,0 0,26 z"
-             style="fill:#f1544d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             style="fill:#467496;fill-opacity:1;fill-rule:nonzero;stroke:none"
              id="path6184"
              inkscape:connector-curvature="0" />
         </g>
@@ -3885,7 +3897,7 @@
             <path
                inkscape:connector-curvature="0"
                id="path6589"
-               style="fill:#f1544d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#467496;fill-opacity:1;fill-rule:nonzero;stroke:none"
                d="m 51,69 26,0 0,-26 -26,0 0,26 z" />
           </g>
         </g>
@@ -3969,7 +3981,7 @@
             <path
                inkscape:connector-curvature="0"
                id="path6655"
-               style="fill:#f1544d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#467496;fill-opacity:1;fill-rule:nonzero;stroke:none"
                d="m 83,69 26,0 0,-26 -26,0 0,26 z" />
           </g>
         </g>

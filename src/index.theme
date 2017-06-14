@@ -1,11 +1,11 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Numix
-Comment=A modern flat theme
+Name=Discreete Linux
+Comment=Discreete Linux theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Numix
-IconTheme=Numix
-MetacityTheme=Numix
+GtkTheme=Discreete Linux
+IconTheme=Discreete Linux
+MetacityTheme=Discreete Linux
 ButtonLayout=:minimize,maximize,close

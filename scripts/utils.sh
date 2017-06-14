@@ -13,7 +13,7 @@ do_install() {
 	cp index.theme "${INSTALL_DIR}"
 
 	cp -rt "${INSTALL_DIR}" \
-			assets gtk-2.0 metacity-1 openbox-3 xfce-notify-4.0 xfwm4 unity
+			assets gtk-2.0
 
 	for _DIR in "${GTKDIR}" "${GTK320DIR}"
 	do
@@ -56,18 +56,10 @@ update_changes_file() {
 	LAST_PATCH="${LAST_STABLE_RELEASE##*.}"
 
 	case "${PWD##*/}" in
-		numix-gtk-theme)
+		discreete-linux-gtk-theme)
 			NEXT_PATCH=$(($LAST_PATCH + 1))
 
 			NEXT_STABLE_RELEASE="${LAST_MAJOR_MINOR}.${NEXT_PATCH}"
-		;;
-
-		Numix-Frost)
-			LAST_MAJOR=$(($LAST_MAJOR + 1))
-			NEXT_STABLE_RELEASE="${LAST_MAJOR}.${LAST_MINOR}.${LAST_PATCH}"
-			LAST_PATCH=$(($LAST_PATCH - 1))
-
-			LAST_STABLE_RELEASE="${LAST_MAJOR}.${LAST_MINOR}.${LAST_PATCH}"
 		;;
 
 		*)
